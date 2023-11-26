@@ -15,7 +15,7 @@ The main steps are as follows:
 - Clustering haiku using <b>NMF</b>
 - Visualize top words of each topic using <b>matplotlib</b> and clustered topics using <b>WordCloud</b>
 - Generate haiku using <b>LSTM</b>
-- To clean the text, multipule NLP and EDA techniques are used such as <b>ReGex</b>, <b>Tokenization</b>, <b>stop words</b>, <b>handling missing values</b>, etc.
+- To clean the text, multiple NLP and EDA techniques are used such as <b>ReGex</b>, <b>Tokenization</b>, <b>stop words</b>, <b>handling missing values</b>, etc.
 
 Please check [here](CISB63_Final_Chao.ipynb) to see my project in detail.
 
